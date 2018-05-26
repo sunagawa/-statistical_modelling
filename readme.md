@@ -6,4 +6,4 @@
 1. Brainstorm the ideas to apply the statistical theories
 
 
-# To see the jupyter notebooks files, go to the following link: [nbviewer](http://nbviewer.jupyter.org/github/sunagawa/statistical_modelling/tree/master/).
+> To see the jupyter notebooks files, go to the following link: [nbviewer](http://nbviewer.jupyter.org/github/sunagawa/statistical_modelling/tree/master/).
